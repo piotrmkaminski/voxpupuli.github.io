@@ -5,6 +5,12 @@ title:
 
 ![Foxes against the blue sky](/static/images/voxconf.png){: class="img-fluid bg-image"  }
 
+<div class="alert alert-success w-25 callout ms-3">
+<h3>🗓️ Upcoming Events</h3>
+<ul>
+<li><a href="2026">VoxConf 2026</a></li>
+</ul>
+</div>
 
 <div class="alert alert-success w-25 callout ms-3">
 <h3>🗓️ Previous Events</h3>
@@ -30,4 +36,5 @@ Whether you want to come learn more about OpenVox, share your own ideas, or help
 ## Updates
 
 * VoxConf '25 has been completed. When the videos are done processing, they'll be posted to its [event page](2025).
-* This page will be updated when VoxConf '26 is scheduled.
+* ~~This page will be updated when VoxConf '26 is scheduled.~~
+* VoxConf 2026 page is now online and will be updated continuously.
