@@ -33,14 +33,14 @@ The following candidates are running for the **2026 Vox Pupuli PMC**:
 
 | Candidate | GitHub | Presentation |
 |-----------|--------|--------------|
-| Sebastian Rakel | [https://github.com/sebastianrakel](https://github.com/sebastianrakel) | [https://voxpupuli.org/elections/2026-02/spritzgebaeck](https://voxpupuli.org/elections/2026-02/spritzgebaeck) |
-| Steven Pritchard | [https://github.com/silug](https://github.com/silug) | [https://voxpupuli.org/elections/2026-02/silug](https://voxpupuli.org/elections/2026-02/silug) |
-| Robert Waffen | [https://github.com/rwaffen](https://github.com/rwaffen) | [https://voxpupuli.org/elections/2026-02/rwaffen](https://voxpupuli.org/elections/2026-02/rwaffen) |
-| Nick Burgan | [https://github.com/nmburgan](https://github.com/nmburgan) | [https://voxpupuli.org/elections/2026-02/nmburgan](https://voxpupuli.org/elections/2026-02/nmburgan) |
-| Tim Meusel | [https://github.com/bastelfreak](https://github.com/bastelfreak) | [https://voxpupuli.org/elections/2026-02/bastelfreak](https://voxpupuli.org/elections/2026-02/bastelfreak) |
-| Kenyon Ralph | [https://github.com/kenyon](https://github.com/kenyon) | [https://voxpupuli.org/elections/2026-02/kenyon](https://voxpupuli.org/elections/2026-02/kenyon) |
-| Ben Ford | [https://github.com/binford2k](https://github.com/binford2k) | [https://voxpupuli.org/elections/2026-02/binford2k](https://voxpupuli.org/elections/2026-02/binford2k) |
-| Romain Tartière | [https://github.com/smortex](https://github.com/smortex) | [https://voxpupuli.org/elections/2026-02/smortex](https://voxpupuli.org/elections/2026-02/smortex) |
+| Sebastian Rakel | [https://github.com/sebastianrakel](https://github.com/sebastianrakel) | [elections/2026-02/spritzgebaeck](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/spritzgebaeck.md) |
+| Steven Pritchard | [https://github.com/silug](https://github.com/silug) | [elections/2026-02/silug](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/silug.md) |
+| Robert Waffen | [https://github.com/rwaffen](https://github.com/rwaffen) | [elections/2026-02/rwaffen](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/rwaffen.md) |
+| Nick Burgan | [https://github.com/nmburgan](https://github.com/nmburgan) | [elections/2026-02/nmburgan](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/nmburgan.md) |
+| Tim Meusel | [https://github.com/bastelfreak](https://github.com/bastelfreak) | [elections/2026-02/bastelfreak](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/bastelfreak.md) |
+| Kenyon Ralph | [https://github.com/kenyon](https://github.com/kenyon) | [elections/2026-02/kenyon](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/kenyon.md) |
+| Ben Ford | [https://github.com/binford2k](https://github.com/binford2k) | [elections/2026-02/binford2k](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/binford2k.md) |
+| Romain Tartière | [https://github.com/smortex](https://github.com/smortex) | [elections/2026-02/smortex](https://github.com/voxpupuli/plumbing/blob/master/share/elections/2026-02/smortex.md) |
 
 ---
 
