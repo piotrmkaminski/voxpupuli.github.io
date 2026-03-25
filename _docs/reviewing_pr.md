@@ -58,7 +58,7 @@ A green checkmark indicates that the review was done by someone with merge permi
 
 If you want to merge:
 
-GitHub provides [multiple merge methods](methods):
+GitHub provides [multiple merge methods][methods]:
 
 <img alt="8bit vox" src="{{ site.url }}{{ site.baseurl }}/static/images/merge_methods.png"/>
 
