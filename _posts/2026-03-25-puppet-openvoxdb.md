@@ -17,7 +17,7 @@ Collected data can also be visualized in a web dashboard like [Puppetboard](http
 ## What is puppet-openvoxdb?
 
 It is a fork of [puppetlabs/puppetdb](https://forge.puppet.com/modules/puppetlabs/puppetdb) adapted for OpenVoxDB: the main changes are the installed packages and parameters type validation.
-If you want to try OpenVoxDB or where already using PuppetDB and want to migrate - this module is for you.
+If you want to try OpenVoxDB or were already using PuppetDB and want to migrate - this module is for you.
 It automates OpenVoxDB install, PostgreSQL setup and OpenVox Server configuration so that clients interact with OpenVoxDB.
 
 ### Migration from PuppetDB and/or puppetlabs-openvoxdb
