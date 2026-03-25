@@ -83,7 +83,7 @@ git push origin master
 git branch -d temp
 ```
 
-GitHub has some [docs available](gpg) to help you configuring GPG for git.
+GitHub has some [docs available][gpg] to help you configuring GPG for git.
 It's also good practice to automatically sign every commit. You can enable that
 with:
 
