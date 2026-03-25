@@ -99,5 +99,5 @@ git config --global commit.gpgsign true
 [imd]: https://github.com/puppetlabs/beaker-module_install_helper#install_module_dependencies
 [styleguide]: https://puppet.com/docs/puppet/5.5/style_guide.html#dependencies
 [methods]: https://help.github.com/en/articles/about-merge-methods-on-github
-[gpg]: https://help.github.com/en/articles/generating-a-new-gpg-key
+[gpg]: https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
 [systemd]:https://github.com/voxpupuli/puppet-systemd
