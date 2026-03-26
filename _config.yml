@@ -37,9 +37,6 @@ defaults:
 navigation:
   - title: About
     entries:
-      - title: Documentation
-        url: /docs/
-        icon: fas fa-book
       - title: Leadership
         url: /elections/
         icon: fas fa-people-group
@@ -83,6 +80,9 @@ navigation:
       - title: Code of Conduct
         url: /coc/
         icon: fas fa-users
+  - title: Documentation
+    url: /docs/
+    icon: fas fa-book
   - title: Sponsoring
     url: /sponsoring/
     icon: fas fa-money-bill-wave
