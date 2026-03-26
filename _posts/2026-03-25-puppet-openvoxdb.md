@@ -12,7 +12,7 @@ Today we launched [puppet/openvoxdb](https://forge.puppet.com/modules/puppet/ope
 OpenVoxDB is the OpenVox fork of [PuppetDB](https://github.com/puppetlabs/puppetdb).
 It collects OpenVox agent run reports, that can then be queried using [PQL (Puppet Query Language)](https://help.puppet.com/pdb/current/topics/pql.htm).
 
-Collected data can also be visualized in a web dashboard like [Puppetboard](https://github.com/voxpupuli/puppetboard) or [OpenVox Gui](https://github.com/voxpupuli/openvoxview). There also are web dashboards outside of VoxPupuli, like [OpenVox Gui](https://github.com/cvquesty/openvox-gui) and [Pabawi](https://github.com/example42/pabawi).
+Collected data can also be visualized in a web dashboard like [Puppetboard](https://github.com/voxpupuli/puppetboard) or [OpenVox View](https://github.com/voxpupuli/openvoxview). There also are web dashboards outside of VoxPupuli, like [OpenVox Gui](https://github.com/cvquesty/openvox-gui) and [Pabawi](https://github.com/example42/pabawi).
 
 ## What is puppet-openvoxdb?
 
@@ -29,7 +29,7 @@ However in production environments you are advised to migrate manually - and don
 
 * EL10 is not supported yet, due to lack of support in `puppetlabs/postgresql`
 * Migration from PuppetDB < 8.x is not supported yet.
-  You should migrate first to PuppetDB < 8.x to PuppetDB 8.x, and from there to OpenVoxDB 8.x
+  You should migrate first from PuppetDB < 8.x to PuppetDB 8.x, then from PuppetDB 8.x to OpenVoxDB 8.x
 
 ## Contribute
 
