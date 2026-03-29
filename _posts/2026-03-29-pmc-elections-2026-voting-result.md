@@ -4,7 +4,6 @@ title: Vox Pupuli PMC Elections Result, 2026 edition
 date: 2026-03-29
 github_username: piotrmkaminski
 ---
-# Vox Pupuli PMC Election 2026 – Results Announced
 
 The **Vox Pupuli PMC Election 2026 has officially concluded**.
 
